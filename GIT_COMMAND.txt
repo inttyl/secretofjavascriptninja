@@ -1,0 +1,24 @@
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+GIT COMMAND : 
+
+
+initialistion du repertoire comme GIT, si pas de lien avec Github 
+    git init
+    
+    
+Liaison avec Github
+     git remote add origin https://github.com/curvenut/secretofjavascriptninja.git
+
+Ajout des fichiers :
+
+    git add .
+
+
+Ajout nouveau gichier dans GIT :
+
+
+Check in fichier 
+
+
+Status des fichiers : 
